@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		E21DA3D72BAB6F8300BE1CF0 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21DA3D62BAB6F8300BE1CF0 /* TableViewCell.swift */; };
 		E21DA3D92BAB8D2100BE1CF0 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E21DA3D82BAB8D2100BE1CF0 /* PostCell.swift */; };
-		E21DA3DD2BAFE7F100BE1CF0 /* tumblrFeed.gif in Resources */ = {isa = PBXBuildFile; fileRef = E21DA3DC2BAFE7F100BE1CF0 /* tumblrFeed.gif */; };
 		ED59161029BC307D000F25AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED59160F29BC307D000F25AE /* AppDelegate.swift */; };
 		ED59161229BC307D000F25AE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED59161129BC307D000F25AE /* SceneDelegate.swift */; };
 		ED59161429BC307D000F25AE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED59161329BC307D000F25AE /* ViewController.swift */; };
@@ -23,7 +22,6 @@
 /* Begin PBXFileReference section */
 		E21DA3D62BAB6F8300BE1CF0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		E21DA3D82BAB8D2100BE1CF0 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
-		E21DA3DC2BAFE7F100BE1CF0 /* tumblrFeed.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tumblrFeed.gif; sourceTree = "<group>"; };
 		ED59160C29BC307D000F25AE /* ios101-project5-tumblr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios101-project5-tumblr.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED59160F29BC307D000F25AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ED59161129BC307D000F25AE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 				ED59161829BC307E000F25AE /* Assets.xcassets */,
 				ED59161A29BC307E000F25AE /* LaunchScreen.storyboard */,
 				ED59161D29BC307E000F25AE /* Info.plist */,
-				E21DA3DC2BAFE7F100BE1CF0 /* tumblrFeed.gif */,
 			);
 			path = "ios101-project5-tumblr";
 			sourceTree = "<group>";
@@ -145,7 +142,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E21DA3DD2BAFE7F100BE1CF0 /* tumblrFeed.gif in Resources */,
 				ED59161C29BC307E000F25AE /* LaunchScreen.storyboard in Resources */,
 				ED59161929BC307E000F25AE /* Assets.xcassets in Resources */,
 				ED59161729BC307D000F25AE /* Main.storyboard in Resources */,
