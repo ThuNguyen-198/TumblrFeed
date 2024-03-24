@@ -23,7 +23,7 @@
 /* Begin PBXFileReference section */
 		E21DA3D62BAB6F8300BE1CF0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		E21DA3D82BAB8D2100BE1CF0 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
-		E21DA3DC2BAFE7F100BE1CF0 /* tumblrFeed.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = tumblrFeed.gif; path = ../../../../../Downloads/tumblrFeed.gif; sourceTree = "<group>"; };
+		E21DA3DC2BAFE7F100BE1CF0 /* tumblrFeed.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tumblrFeed.gif; sourceTree = "<group>"; };
 		ED59160C29BC307D000F25AE /* ios101-project5-tumblr.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios101-project5-tumblr.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED59160F29BC307D000F25AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ED59161129BC307D000F25AE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -50,7 +50,6 @@
 		ED59160329BC307D000F25AE = {
 			isa = PBXGroup;
 			children = (
-				E21DA3DC2BAFE7F100BE1CF0 /* tumblrFeed.gif */,
 				ED59160E29BC307D000F25AE /* ios101-project5-tumblr */,
 				ED59160D29BC307D000F25AE /* Products */,
 			);
@@ -77,6 +76,7 @@
 				ED59161829BC307E000F25AE /* Assets.xcassets */,
 				ED59161A29BC307E000F25AE /* LaunchScreen.storyboard */,
 				ED59161D29BC307E000F25AE /* Info.plist */,
+				E21DA3DC2BAFE7F100BE1CF0 /* tumblrFeed.gif */,
 			);
 			path = "ios101-project5-tumblr";
 			sourceTree = "<group>";
